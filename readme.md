@@ -10,3 +10,6 @@ Detail Project:
      *   Jenis: Gamis dan Blouse 
      *   Warna: Navy dan Merah
      *   Total: 120 Citra (masing-masing 30 citra untuk setiap jenis dan warna)
+
+**Note**:
+Penggunaan dataset yang berbeda dengan paper rujukan dikarenakan dataset tersebut tidak bersifat publik dan situs yang digunakan telah nonaktif. Maka dari itu, saya melakukan pengumpulan dataset secara mandiri yang masih sesuai dengan kriteria dataset paper rujukan. Namun, sedikit terkendala untuk pengumpulan dataset _class_ outerware yang sulit ditemukan. 
