@@ -6,7 +6,7 @@
 
 Detail Project:
 1.   Paper Reference: http://jurnal.una.ac.id/index.php/jurti/article/view/2021/1681
-2.   Dataset: https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset
-     *   Jenis: Gaun dan Sepatu 
-     *   Warna: Hitam, Biru, Merah dan Putih
-     *   Total: 3.600 Citra (masing-masing 450 citra untuk setiap jenis dan warna)
+2.   Dataset: dataset primer yang diambil dari situs https://www.hijup.com/
+     *   Jenis: Gamis dan Blouse 
+     *   Warna: Navy dan Merah
+     *   Total: 120 Citra (masing-masing 30 citra untuk setiap jenis dan warna)
