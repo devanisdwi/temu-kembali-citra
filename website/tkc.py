@@ -29,9 +29,9 @@ class FeatureExtractor:
 fe = FeatureExtractor()
 features = []
 img_paths = []
-for feature_path in Path("D://KULIAH//SEMESTER 7//temu-kembali-citra//feature").glob("*.npy"):
+for feature_path in Path("/app/temu-kembali-citra/feature").glob("*.npy"):
     features.append(np.load(feature_path))
-    img_paths.append(Path("D://KULIAH//SEMESTER 7//temu-kembali-citra//busana_muslim") / (feature_path.stem + ".jpg"))
+    img_paths.append(Path("/app/temu-kembali-citra/busana_muslim") / (feature_path.stem + ".jpg"))
 features = np.array(features)
 
 st.markdown("""
